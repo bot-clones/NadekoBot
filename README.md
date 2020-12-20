@@ -1,7 +1,12 @@
-Nadeko's development has been moved to  
+# Nadeko Bot 
+Published by Kwoth#2452 (105635576866156544) 
 
-https://gitlab.com/Kwoth/NadekoBot
+Tested Here: 
+https://canary.discord.com/channels/333949691962195969/508739007597903904/762127111921729576
 
-Due to unprofessional and unfair treatment I've received from github support.  
+## Help Commands 
+![Help Command](https://i.imgur.com/19hs2YR.png)
 
-See ya there :tada:
+
+![Modules](https://i.imgur.com/FXoBKpi.png)
+
